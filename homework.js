@@ -2,6 +2,7 @@
 
 // 1. Write an if/else statement
 // Need to improve
+// first warning 2023
 var APPLE_QUANTITY = 5;
 
 if (APPLE_QUANTITY < 5){
